@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hey there, I'm Amelia! 👋🏻
 
-I’m a Data Science & Business Analytics graduate seeking 2026 entry-level analytics roles (Business Analyst / Data Scienctist) in May.
+I’m a Data Science & Business Analytics graduate seeking 2026 entry-level analytics roles (Business Analyst / Data Scientist) in May.
 Happy to connect on LinkedIn, www.linkedin.com/in/ameliachow, or email me at ameliachow123@gmail.com.
 
 I enjoy turning messy data into clear and decision-ready insights, from cleaning and EDA to dashboards and recommendations. <br> Currently sharpening my foundations in SQL, dashboard design, and end-to-end portfolio projects.
