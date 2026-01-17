@@ -1,4 +1,4 @@
-## Hi there 👋
+## Get to know me ✨
 
 <!--
 **amelia-chow/amelia-chow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hey there, I'm Amelia! 👋🏻
+
+I’m a Data Science & Business Analytics graduate seeking 2026 entry-level analytics roles (Business Analyst / Data Scienctist).
+Happy to connect on LinkedIn or email me at ameliachow123@gmail.com
+
+I enjoy turning messy data into clear and decision-ready insights, from cleaning and EDA to dashboards and recommendations. Currently sharpening my foundations in SQL, dashboard design, and end-to-end portfolio projects.
+
+🛠 Tools I use: Python, SQL, Power BI/Tableau, Excel and R <br>
+🧠 Statistics: EDA, hypothesis testing, confidence intervals, regression basics
+
+Stay tuned! Projects are on the way!😉
